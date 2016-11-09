@@ -1,6 +1,6 @@
-drop database if exists tournament
-create database tournament
-\c tournament
+drop database if exists tournament;
+create database tournament;
+\c tournament;
 
 create table player
 (

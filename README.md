@@ -13,4 +13,11 @@ Create necessary sql queries to build the database
 Test file for tournament.py
 
 
+# Instruction
+1. Change to the folder that contains necessary files
+2. Open psql
+3. Run tournament.sql to build database and tables
+    \i tournament.sql
+4. Run test in the terminal
+    run 'python tournament_test.py'
 
